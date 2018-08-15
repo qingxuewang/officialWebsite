@@ -1,0 +1,148 @@
+.container{
+    width: 1903px;
+    margin: 0 auto;
+    position: relative;
+}
+.nav{
+    height: 100px;
+}
+.nav .logo{
+    margin-left: 70px;
+    margin-top: 22px;
+    display: inline-block;
+}
+.nav .navlink{
+    position: absolute;
+    left: 660px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.navlink li{
+    float: left;
+    margin-right: 88px;
+    font-size: 24px;
+    line-height:100px;
+}
+.navlink a{
+    color: #333333;
+}
+.nav .tel{
+    display: inline-block;
+    font-size: 24px;
+    height: 100px;
+    line-height:100px;
+    position: absolute;
+    right: 70px;
+}
+.nav .tel img{
+    position: relative;
+    top: 5px;
+}
+.banner{
+    height: 669px;
+}
+.banner img{
+    height: 100%;
+}
+.column{
+    width: 1200px;
+    height: 700px;
+    margin: 0 auto;
+    position: relative;
+
+}
+.column .service{
+    width: 180px;
+    height: 107px;
+    margin: 0 auto;
+    position: relative;
+    top: 70px;
+}
+.column .service .chservice{
+    font-size: 36px;
+    color: #333333;
+}
+.column .service .enservice{
+    width: 117px;
+    margin: 18px auto;
+    font-size: 18px;
+    color: #999999;
+}
+.column .content{
+    position: absolute;
+    top: 220px;
+    width: 100%;
+    text-align:center;
+}
+.column .content .text{
+    width: 276px;
+    height: 384px;
+    float: left;
+    margin-right: 32px;
+    background-color: #ececec;
+}
+.column .content .endtext{
+    margin-right: 0;
+}
+.column .content .text span{
+    height: 31px;
+    display: inline-block;
+    margin-top: 40px;
+    margin-bottom: 46px;
+    color: #00aeff;
+    font-size: 24px;
+}
+.column .content .text p{
+    color: #333333;
+    font-size: 18px;
+    line-height: 30px;
+    display: inline-block;
+    width: 231px;
+}
+.system{
+    width: 100%;
+    height: 700px;
+    background-color: #ececec;
+}
+.system .center{
+    width: 1200px;
+    margin: 0 auto;
+    height: 100%;
+}
+.system .center .advantage{
+    padding-top:70px;
+    text-align: center;
+}
+.system .chadvantage{
+    color: #333333;
+    font-size: 36px;
+}
+.system .enadvantage{
+    margin-top: 18px;
+    color: #999999;
+    font-size: 18px;
+}
+.system .detail{
+    height: 384px;
+    width: 100%;
+    background: red;
+    margin-top: 88px;
+}
+.system .detail .left{
+
+}
+.system .detail .right{
+    float: right;
+    width: 278px;
+    height: 384px;
+    background-color: #00aeff;
+    text-align: center;
+}
+.system .detail .right span{
+    display: inline-block;
+    width: 223px;
+    font-size: 24px;
+    line-height: 42px;
+    color: #ffffff;
+    margin-top: 50px;
+}
